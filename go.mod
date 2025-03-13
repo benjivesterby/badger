@@ -12,14 +12,13 @@ require (
 	github.com/golang/protobuf v1.3.1
 	github.com/golang/snappy v0.0.3
 	github.com/google/flatbuffers v1.12.1
-	github.com/google/go-cmp v0.5.4 // indirect
 	github.com/klauspost/compress v1.12.3
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v0.0.5
 	github.com/stretchr/testify v1.4.0
 	go.opencensus.io v0.22.5
-	golang.org/x/net v0.23.0
-	golang.org/x/sys v0.18.0
+	golang.org/x/net v0.36.0
+	golang.org/x/sys v0.30.0
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 )
